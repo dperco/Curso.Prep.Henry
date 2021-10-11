@@ -1,4 +1,4 @@
-/ En estas primeras 6 preguntas, reemplaza `null` por la respuesta
+//En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString ='hola';
@@ -272,7 +272,7 @@ function esVocal(letra){
 // No modificar nada debajo de esta línea
 // --------------------------------
 
-module.exports = {
+module.exports = 
   nuevaString,
   nuevoNum,
   nuevoBool,
@@ -305,7 +305,5 @@ module.exports = {
   retornarPerimetro,
   areaDelTriangulo,
   deEuroAdolar,
-  esVocal,
+  esVocal;
 };
-
-
