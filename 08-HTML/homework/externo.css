@@ -1,39 +1,25 @@
-body {
-    background-color:yellow;
-}
 h1 {
-    font-size: 65px;
-    color:black;
-    font-style: italic;
-}
-h2 {
-    font-size: 40;
-    color:yellowgreen;
-    font-style: normal;
-}
-h3 {
-    font-size: 30;
-    color:turquoise;
-    font-style: italic;
-}
-h4 {
-    font-size: 25;
-    color:white;
-    font-style: oblique;
-}
+    color: chartreuse;
+    background-color: rgb(192, 209, 174);
 
-
-
-.divClass {
-    color:tomato;
-    border:green;
-    margin-top: 20px;
 }
-
-img {
+img{
     width: 100px;
-    height: 100px;
+    background-color: crimson;
 }
+.divclass{
+    background-color: darkkhaki;
+}
+#thirdDiv{
+    width: 200px;
+    height: 100px;
+    background-color: darkturquoise;
+    padding: 50px;
+    border: solid red;
+}
+#spanId{
+    background-color: fuchsia;
+    font-size: 30px;
+    margin: 80px;
 
-
-
+}
